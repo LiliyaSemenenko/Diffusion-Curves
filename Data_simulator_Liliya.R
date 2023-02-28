@@ -4,7 +4,7 @@
 #           technology adoption curves for              #
 #        Return Regression prediction research          #
 #                                                       #
-#                       Dan Harris                      #
+#                 Liliya Semenenko                      #
 #                    September, 2022                    #
 #                                                       #
 #########################################################
